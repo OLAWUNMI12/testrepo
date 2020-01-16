@@ -1,0 +1,11 @@
+com\Aspect\MyAspect.class
+com\Configuration\SpringAnnotationConfig.class
+com\Configuration\WebAnnotationConfig.class
+com\Services\MyServiceImplementation.class
+com\Controller\MyController.class
+com\Model\Courses.class
+com\DataAccessObject\MyDataAccessObject.class
+com\DataAccessObject\DAOImplementation.class
+com\Configuration\HibernateSessionConfig.class
+com\Model\Student.class
+com\Services\MyServices.class
